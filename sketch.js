@@ -17,7 +17,7 @@ function miFunciónDelDia(){
 
 
 function setup() {
-  createCanvas(800,600);
+  createCanvas(width,height);
   background(0,255,0,100);
 }
 
